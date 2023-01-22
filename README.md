@@ -1,2 +1,0 @@
-# AntEricProejct
-Cool shiz
